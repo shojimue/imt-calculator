@@ -46,7 +46,7 @@
 | Компонент | Требование |
 | :--- | :--- |
 | **Операционная система** | Windows 10+, macOS, Linux, Android, iOS |
-| **Браузер** | Любой |
+| **Браузер** | Google Chrome, Edge, Firefox, Safari, Yandex Browser |
 | **Разрешение экрана** | Не менее 320х480 |
 
 ---
